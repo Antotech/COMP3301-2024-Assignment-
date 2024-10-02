@@ -90,9 +90,13 @@ The following man pages may be useful for understanding existing features or job
 Public tests: Public tests are provided, and it is recommended to run commands before running tests to reduce the possibility of file system corruption in the event of a kernel panic. Public tests only test basic functionality, passing public tests does not guarantee that the code is completely correct, and students are encouraged to write their own test cases.syncSCM_PAGES
 Test program installation: Test programs and 22 public tests can be installed by running a series of commands in the virtual machine.a2test
 a2test program uses: the program accepts command line arguments, the first argument is optional, or, the second argument is optional, or, and the third argument is the list of tests to run/view the information/dump output or.a2testpublicprivatecustomallruninfodumpall
+
 COMP3301 2024 Assignment 2
+
 CS Tutor | Computer Programming Tutorial | Code Help | Programming Help
+
 Whats-App: +254-712-495-486
+
 Email: antotech874@gmail.com
 
 Non-intermediary, contact the programmer directly
